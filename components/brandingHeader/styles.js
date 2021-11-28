@@ -10,7 +10,7 @@ const BrandStyles = styled.figure`
   h2 {
     font-size: 1.5rem;
     font-weight: 500;
-    font-size: ${props => props.font || "24px"};
+    font-size: ${props => props.font || "18px"};
   }
   svg {
     margin-right: 0.5rem;
