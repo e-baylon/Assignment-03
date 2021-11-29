@@ -1,0 +1,58 @@
+[ 
+    {
+        "id": "aw45f25v",
+        "category": "friends",
+        "title": "Poss imusa dip is icing",
+        "isCompleted": true,
+        "startDate": "Wednesday September 3rd",
+        "startTime":"9:00am",
+        "endDate": "Wednesday September 3rd",
+        "endTime":"9:00am"
+    },
+    
+    {
+        "id": "8hjg0sh43",
+        "category": "family",
+        "title": "Brie stilton feta. Caerphilly airedale emmental red leicester say cheese dolcelatte dolcelatte stinking bishop.",
+        "isCompleted": false,
+        "startDate": "Wednesday September 10th",
+        "startTime":"9:00am",
+        "endDate": "Thursday September 22",
+        "endTime":"10:00am"
+    },
+
+    {
+        "id": "6fnd0snfa",
+        "category": "school",
+        "title": "Stilton brie monterey jack. Say cheese edam rubber cheese babybel cheesy grin who moved my cheese stilton stilton. Bavarian bergkase who moved my cheese stinking bishop rubber cheese red leicester cottage cheese croque monsieur airedale. Boursin emmental everyone loves cheese and biscuits.",
+        "isCompleted": true,
+        "startDate": "Wednesday October 12th",
+        "startTime":"9:00am",
+        "endDate": "Thursday November 22",
+        "endTime":"10:00am"
+    },
+
+    {
+        "id": "88djf7e0w",
+        "category": "fitness",
+        "title": "Ricotta parmesan fondue. Manchego boursin roquefort fondue dolcelatte dolcelatte edam cheeseburger. Macaroni cheese everyone loves croque monsieur feta cheeseburger manchego bavarian bergkase cheese strings. The big cheese taleggio say cheese.",
+        "isCompleted": true,
+        "startDate": "Wednesday October 11th",
+        "startTime":"11:00am",
+        "endDate": "Sunday October 31",
+        "endTime":"12:00am"
+    },
+    
+    {
+        "id": "akfodps98",
+        "category": "special",
+        "title": "Edam danish fontina macaroni cheese. Cheesy feet chalk and cheese cheeseburger pecorino cream cheese rubber cheese emmental squirty cheese. Cheese on toast cottage cheese mascarpone smelly cheese who moved my cheese croque monsieur red leicester cheesy feet. Paneer danish fontina say cheese edam hard cheese monterey jack airedale melted cheese. Cheddar jarlsberg jarlsberg monterey jack.",
+        "isCompleted": false,
+        "startDate": "Wednesday October 4th",
+        "startTime":"11:00am",
+        "endDate": "Sunday October 5th",
+        "endTime":"12:00am"
+    }
+
+
+]
