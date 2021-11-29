@@ -8,7 +8,7 @@ function Brand ({...props}){
     <Link href="/">
     <BrandStyles {...props}>
       <Logo {...props}/>
-      <figcaption><h2>2doolyst</h2></figcaption>
+      <figcaption><h2>Ultimate ToDo List App</h2></figcaption>
     </BrandStyles>
     </Link>
   )

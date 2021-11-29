@@ -16,10 +16,7 @@ const BrandStyles = styled.figure`
     margin-right: 0.5rem;
     width: ${props => props.logo || "1.25rem"};
   }
-  h2::first-letter {
-    font-size: ${props => props.letter || "36px"};
-    font-weight: 600;
-  }
+  
 `;
 
 export {BrandStyles}
