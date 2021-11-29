@@ -1,7 +1,7 @@
 import todos from "../../components/data/todo.json"
 import styled from "styled-components"
 
-const toDoStyles = styled.ul`
+styled.ul`
     background-color: ${props => props.bg === "black" ? "black" : "blue"}
     width:400px;
     list-style-type:none;
@@ -18,7 +18,7 @@ function ToDoItem(){
     
     return(
         
-        todos.map((todo, ...props) =>
+        todos.map((todo) =>
 
         
         <toDoStyles data-key={todo.id}>
