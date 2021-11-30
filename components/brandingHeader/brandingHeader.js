@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Logo } from "./../../components/icons/logo"
+import { Logo } from "../icons/logo"
 import {BrandStyles} from "./styles"
 
 
@@ -8,7 +8,7 @@ function Brand ({...props}){
     <Link href="/">
     <BrandStyles {...props}>
       <Logo {...props}/>
-      <figcaption><h2>Ultimate ToDo List App</h2></figcaption>
+      <figcaption><h2>2doolyst</h2></figcaption>
     </BrandStyles>
     </Link>
   )
