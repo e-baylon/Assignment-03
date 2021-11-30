@@ -1,1 +1,1 @@
-export {default as EmailAndPassword } from './EmailAndPassword'
+export {default as UserLogin } from './UserLogin'
